@@ -1,0 +1,14 @@
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\bin\Debug\Kursavoi.exe.config
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\bin\Debug\Kursavoi.exe
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\bin\Debug\Kursavoi.pdb
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.Properties.Resources.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.csproj.GenerateResource.cache
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.exe
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.pdb
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.admin.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.teacher.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.student.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.login.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\bin\Debug\zzz.mdb
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.studentOOO.resources
+C:\Users\Zaman\source\repos\Kursavoi\Kursavoi\obj\Debug\Kursavoi.csprojAssemblyReference.cache
